@@ -183,8 +183,7 @@
         <artifactId>mockito-core</artifactId>
         <version>1.8.5</version>
         <scope>test</scope>
-      </dependency>
-    </dependencies>
+     dependencies>
   </dependencyManagement>
 
   <scm>
@@ -195,4 +194,7 @@
   </scm>
 
   <prerequisites>
-    <maven>
+    <maven>3.0.3</maven>
+  </prerequisites>
+
+</project>
